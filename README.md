@@ -5,7 +5,7 @@ An enthusiastic attempt at learning OOP concepts while making a GNOME-like calcu
 > cd ./hello
 > 
 > python3 manage.py runserver
-> > NOTE: Search *http://127.0.0.1:8000/polls/* for results
+> > NOTE: Search *http://127.0.0.1:8000/admin/* for results
 
 
 ### References:
