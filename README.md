@@ -1,5 +1,11 @@
 # Calcumate
-An enthusiastic attempt at learning OOP concepts while extending a GNOME-like calculator to a complete math-package. The project is made to provide a handy calculator for student-level maths. Try out the cool features!
+An enthusiastic attempt at learning OOP concepts while extending a GNOME-like 
+calculator to a complete math-package. This project is a part of SY Rapid 
+Prototyping Practice and Object Oriented Programming courseware. 
+The project is made to provide a handy calculator for student-level maths. Try out the cool features!
+
+### Setup:
+Install python virtual env, tkinter libraries
 
 ### Usage:
 Run the calculator .py file
